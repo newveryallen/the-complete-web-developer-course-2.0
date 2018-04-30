@@ -8,3 +8,7 @@
 <hr>
 
 <a href="https://fonts.google.com/">Google font famitly</a>
+
+text-align:justify
+
+lorem-ipsum
